@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<fluege>
+    <flug id='001'>        
+        <IATA>AB</IATA>
+        <ICAO>BER</ICAO>
+        <Logo>logos/ab.png</Logo>
+        <Flugnummer>0812</Flugnummer>
+        <Abflugzeit>20:15</Abflugzeit>
+        <Destination>Salzburg</Destination>
+    </flug>
+    
+    <status>
+        <Boarding>Boarding</Boarding>
+        <Closed>Gate Closed</Closed>
+        <Lastcall>Last Call</Lastcall>
+    </status>
+</fluege>
+
+
